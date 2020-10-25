@@ -1,0 +1,31 @@
+<?php
+
+define('_BLK_TITLE1', '¥³¥ó¥Æ¥ó¥Ä');
+define('_BLK_MUS_WORD1', '¥Ö¥é¥¦¥¶¤Ë¤è¤Ã¤Æ¥ª¥×¥·¥ç¥óÀßÄê¤¬Ìµ¸ú¤Ë¤Ê¤ë¾ì¹ç¤¬¤¢¤ê¤Þ¤¹');
+define('_BLK_MUS_WORD2', 'Éý');
+define('_BLK_MUS_WORD3', '¹â¤µ');
+define('_BLK_MUS_WORD4', '¼«Æ°ºÆÀ¸');
+define('_BLK_MUS_WORD5', '¼«Æ°¥µ¥¤¥º');
+define('_BLK_MUS_WORD6', '¼«Æ°´¬¤­Ìá¤·');
+define('_BLK_MUS_WORD7', '¥Ð¥é¥ó¥¹');
+define('_BLK_MUS_WORD8', '¥Ð¥Ã¥Õ¥¡¥ê¥ó¥°¥¿¥¤¥à');
+define('_BLK_MUS_WORD9', '¥¹¥Æ¡¼¥¿¥¹¥Ð¡¼¤ÎÉ½¼¨');
+define('_BLK_MUS_WORD10', '²»ÎÌ');
+define('_BLK_MUS_WORD11', '¥³¥ó¥È¥í¡¼¥ë¤ÎÉ½¼¨');
+define('_BLK_MUS_WORD12', '¥ª¡¼¥Ç¥£¥ª¥³¥ó¥È¥í¡¼¥ë¤ÎÉ½¼¨');
+define('_BLK_MUS_WORD13', 'ºÆÀ¸Ãæ¥¥');
+define('_BLK_MOV_WORD1', '¥Ö¥é¥¦¥¶¤Ë¤è¤Ã¤Æ¥ª¥×¥·¥ç¥óÀßÄê¤¬Ìµ¸ú¤Ë¤Ê¤ë¾ì¹ç¤¬¤¢¤ê¤Þ¤¹');
+define('_BLK_MOV_WORD2', 'Éý');
+define('_BLK_MOV_WORD3', '¹â¤µ');
+define('_BLK_MOV_WORD4', '¼«Æ°ºÆÀ¸');
+define('_BLK_MOV_WORD5', '¼«Æ°¥µ¥¤¥º');
+define('_BLK_MOV_WORD6', '¼«Æ°´¬¤­Ìá¤·');
+define('_BLK_MOV_WORD7', '¥Ð¥é¥ó¥¹');
+define('_BLK_MOV_WORD8', '¥Ð¥Ã¥Õ¥¡¥ê¥ó¥°¥¿¥¤¥à');
+define('_BLK_MOV_WORD9', '¥¹¥Æ¡¼¥¿¥¹¥Ð¡¼¤ÎÉ½¼¨');
+define('_BLK_MOV_WORD10', '²»ÎÌ');
+define('_BLK_MOV_WORD11', '¥³¥ó¥È¥í¡¼¥ë¤ÎÉ½¼¨');
+define('_BLK_MOV_WORD12', '¥ª¡¼¥Ç¥£¥ª¥³¥ó¥È¥í¡¼¥ë¤ÎÉ½¼¨');
+define('_BLK_MOV_WORD13', 'Æ°²è¼«Æ°ºÆÀ¸');
+define('_BLK_MOV_WORD14', 'ºÆÀ¸Ãæ¥¥');
+define('_BLK_PIC_WORD1', 'ÁªÂò¡§');
